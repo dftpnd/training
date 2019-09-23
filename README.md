@@ -17,3 +17,6 @@ Fizzbuzz(5)
 // fizz
 // 4
 // buzz
+
+
+https://jsbin.com/qiqecasuqu/1/edit?html,js,console
